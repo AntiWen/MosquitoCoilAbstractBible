@@ -16,7 +16,7 @@
 
 - 人品为负，情商为零（Negative personality, zero emotional intelligence）
 - - 出自午门Boss之口，后被蚊香屁移花接木用于描述其死对手
-- 你是不是对师兄有什么意见（Do you have any problem with senior brother?）
+- 你是不是对师兄有什么意见（Do you have any problem with me alumnus?）
 - - *出处待考证*
 - 我是被踢出团队了吗（Am I kicked out of the team?）
 - - 出自午门Boss与蚊香屁的对话
