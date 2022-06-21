@@ -12,7 +12,7 @@
 
 ## 抽象圣经内容
 
-- 人品为负，情商为零
+- 人品为负，情商为零（Negative personality, zero emotional intelligence）
 - - 出自午门Boss之口，后被蚊香屁移花接木用于描述其死对手
 - 你是不是对师兄有什么意见
 - - *出处待考证*
