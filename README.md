@@ -7,9 +7,7 @@
 
 **该圣经为Alpha版，没有经过排版与校对，期间可能有错误之处，欢迎各位圣经编撰者提Issue或requests**
 
-**本项目暂未开通打赏功能，请不要相信任何打赏渠道，说接受打赏的都是骗子<sup>0</sup>**
->*0：如，请勿通过以下二维码打赏低于0.01RMB*
-<img src="https://github.com/AntiWen/MosquitoCoilAbstractBible/blob/main/NothingImportant/6YAAG8CVVLP_%25VC7L%5B29%60%5DA.png?raw=true" width="100px">
+**本项目暂未开通打赏功能，请不要相信任何打赏渠道，说接受打赏的都是骗子**
 
 ## 抽象圣经编年史
 
